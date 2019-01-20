@@ -1,5 +1,5 @@
-clone the repo
-make a database called dotdev
-go to repo folder, write the following commands
-php artisan serve
-php artisan migrate:fresh --seed
+1- clone the repo 
+2- make a database called dotdev
+3- go to repo folder, write the following commands
+4- php artisan serve
+5- php artisan migrate:fresh --seed
